@@ -1,0 +1,7 @@
+C:\Users\amarnathma\source\repos\DotnetCoding1\DotnetCoding1\bin\Debug\DotnetCoding1.exe.config
+C:\Users\amarnathma\source\repos\DotnetCoding1\DotnetCoding1\bin\Debug\DotnetCoding1.exe
+C:\Users\amarnathma\source\repos\DotnetCoding1\DotnetCoding1\bin\Debug\DotnetCoding1.pdb
+C:\Users\amarnathma\source\repos\DotnetCoding1\DotnetCoding1\obj\Debug\DotnetCoding1.csproj.AssemblyReference.cache
+C:\Users\amarnathma\source\repos\DotnetCoding1\DotnetCoding1\obj\Debug\DotnetCoding1.csproj.CoreCompileInputs.cache
+C:\Users\amarnathma\source\repos\DotnetCoding1\DotnetCoding1\obj\Debug\DotnetCoding1.exe
+C:\Users\amarnathma\source\repos\DotnetCoding1\DotnetCoding1\obj\Debug\DotnetCoding1.pdb
