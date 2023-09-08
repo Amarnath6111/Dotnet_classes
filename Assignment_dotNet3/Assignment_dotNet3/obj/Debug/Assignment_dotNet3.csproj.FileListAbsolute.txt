@@ -1,0 +1,7 @@
+C:\Users\amarnathma\source\repos\Assignment_dotNet3\Assignment_dotNet3\bin\Debug\Assignment_dotNet3.exe.config
+C:\Users\amarnathma\source\repos\Assignment_dotNet3\Assignment_dotNet3\bin\Debug\Assignment_dotNet3.exe
+C:\Users\amarnathma\source\repos\Assignment_dotNet3\Assignment_dotNet3\bin\Debug\Assignment_dotNet3.pdb
+C:\Users\amarnathma\source\repos\Assignment_dotNet3\Assignment_dotNet3\obj\Debug\Assignment_dotNet3.csproj.AssemblyReference.cache
+C:\Users\amarnathma\source\repos\Assignment_dotNet3\Assignment_dotNet3\obj\Debug\Assignment_dotNet3.csproj.CoreCompileInputs.cache
+C:\Users\amarnathma\source\repos\Assignment_dotNet3\Assignment_dotNet3\obj\Debug\Assignment_dotNet3.exe
+C:\Users\amarnathma\source\repos\Assignment_dotNet3\Assignment_dotNet3\obj\Debug\Assignment_dotNet3.pdb
