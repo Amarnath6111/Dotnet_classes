@@ -1,0 +1,7 @@
+C:\training\Jagged_array_day4\Jagged_array_day4\bin\Debug\Jagged_array_day4.exe.config
+C:\training\Jagged_array_day4\Jagged_array_day4\bin\Debug\Jagged_array_day4.exe
+C:\training\Jagged_array_day4\Jagged_array_day4\bin\Debug\Jagged_array_day4.pdb
+C:\training\Jagged_array_day4\Jagged_array_day4\obj\Debug\Jagged_array_day4.csproj.AssemblyReference.cache
+C:\training\Jagged_array_day4\Jagged_array_day4\obj\Debug\Jagged_array_day4.csproj.CoreCompileInputs.cache
+C:\training\Jagged_array_day4\Jagged_array_day4\obj\Debug\Jagged_array_day4.exe
+C:\training\Jagged_array_day4\Jagged_array_day4\obj\Debug\Jagged_array_day4.pdb
