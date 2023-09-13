@@ -1,0 +1,6 @@
+C:\training\Dotnet_day5\Dotnet_day5\obj\Debug\Dotnet_day5.csproj.CoreCompileInputs.cache
+C:\training\Dotnet_day5\Dotnet_day5\bin\Debug\Dotnet_day5.exe.config
+C:\training\Dotnet_day5\Dotnet_day5\bin\Debug\Dotnet_day5.exe
+C:\training\Dotnet_day5\Dotnet_day5\bin\Debug\Dotnet_day5.pdb
+C:\training\Dotnet_day5\Dotnet_day5\obj\Debug\Dotnet_day5.exe
+C:\training\Dotnet_day5\Dotnet_day5\obj\Debug\Dotnet_day5.pdb
