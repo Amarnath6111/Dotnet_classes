@@ -1,0 +1,6 @@
+C:\training\Assignment_dotnet_5\Assignment_dotnet_5\obj\Debug\Assignment_dotnet_5.csproj.CoreCompileInputs.cache
+C:\training\Assignment_dotnet_5\Assignment_dotnet_5\bin\Debug\Assignment_dotnet_5.exe.config
+C:\training\Assignment_dotnet_5\Assignment_dotnet_5\bin\Debug\Assignment_dotnet_5.exe
+C:\training\Assignment_dotnet_5\Assignment_dotnet_5\bin\Debug\Assignment_dotnet_5.pdb
+C:\training\Assignment_dotnet_5\Assignment_dotnet_5\obj\Debug\Assignment_dotnet_5.exe
+C:\training\Assignment_dotnet_5\Assignment_dotnet_5\obj\Debug\Assignment_dotnet_5.pdb
