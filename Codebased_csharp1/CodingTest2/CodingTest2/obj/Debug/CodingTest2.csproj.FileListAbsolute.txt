@@ -1,0 +1,7 @@
+C:\training\CodingTest2\CodingTest2\obj\Debug\CodingTest2.csproj.CoreCompileInputs.cache
+C:\training\CodingTest2\CodingTest2\bin\Debug\CodingTest2.exe.config
+C:\training\CodingTest2\CodingTest2\bin\Debug\CodingTest2.exe
+C:\training\CodingTest2\CodingTest2\bin\Debug\CodingTest2.pdb
+C:\training\CodingTest2\CodingTest2\obj\Debug\CodingTest2.exe
+C:\training\CodingTest2\CodingTest2\obj\Debug\CodingTest2.pdb
+C:\training\CodingTest2\CodingTest2\obj\Debug\CodingTest2.csproj.AssemblyReference.cache
