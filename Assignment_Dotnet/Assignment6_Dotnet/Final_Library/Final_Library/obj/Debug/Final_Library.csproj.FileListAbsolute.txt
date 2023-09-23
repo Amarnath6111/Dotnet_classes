@@ -1,0 +1,5 @@
+C:\Dotnet_training\Final_Library\Final_Library\bin\Debug\Final_Library.dll
+C:\Dotnet_training\Final_Library\Final_Library\bin\Debug\Final_Library.pdb
+C:\Dotnet_training\Final_Library\Final_Library\obj\Debug\Final_Library.csproj.CoreCompileInputs.cache
+C:\Dotnet_training\Final_Library\Final_Library\obj\Debug\Final_Library.dll
+C:\Dotnet_training\Final_Library\Final_Library\obj\Debug\Final_Library.pdb
