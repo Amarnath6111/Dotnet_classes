@@ -1,0 +1,7 @@
+C:\Dotnet_training\RemoteServer\RemoteServer\bin\Debug\RemoteServer.exe.config
+C:\Dotnet_training\RemoteServer\RemoteServer\bin\Debug\RemoteServer.exe
+C:\Dotnet_training\RemoteServer\RemoteServer\bin\Debug\RemoteServer.pdb
+C:\Dotnet_training\RemoteServer\RemoteServer\obj\Debug\RemoteServer.csproj.AssemblyReference.cache
+C:\Dotnet_training\RemoteServer\RemoteServer\obj\Debug\RemoteServer.csproj.CoreCompileInputs.cache
+C:\Dotnet_training\RemoteServer\RemoteServer\obj\Debug\RemoteServer.exe
+C:\Dotnet_training\RemoteServer\RemoteServer\obj\Debug\RemoteServer.pdb
