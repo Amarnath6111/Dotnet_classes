@@ -1,0 +1,6 @@
+C:\Dotnet_training\Codebased_csharp1\CodeBasedTest_4\GenericEmployeeTest4\GenericEmployeeTest4\bin\Debug\GenericEmployeeTest4.exe.config
+C:\Dotnet_training\Codebased_csharp1\CodeBasedTest_4\GenericEmployeeTest4\GenericEmployeeTest4\bin\Debug\GenericEmployeeTest4.exe
+C:\Dotnet_training\Codebased_csharp1\CodeBasedTest_4\GenericEmployeeTest4\GenericEmployeeTest4\bin\Debug\GenericEmployeeTest4.pdb
+C:\Dotnet_training\Codebased_csharp1\CodeBasedTest_4\GenericEmployeeTest4\GenericEmployeeTest4\obj\Debug\GenericEmployeeTest4.csproj.CoreCompileInputs.cache
+C:\Dotnet_training\Codebased_csharp1\CodeBasedTest_4\GenericEmployeeTest4\GenericEmployeeTest4\obj\Debug\GenericEmployeeTest4.exe
+C:\Dotnet_training\Codebased_csharp1\CodeBasedTest_4\GenericEmployeeTest4\GenericEmployeeTest4\obj\Debug\GenericEmployeeTest4.pdb
