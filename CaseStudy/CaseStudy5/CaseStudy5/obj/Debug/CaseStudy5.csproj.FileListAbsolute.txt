@@ -1,0 +1,7 @@
+C:\Dotnet_training\CaseStudy\CaseStudy5\CaseStudy5\obj\Debug\CaseStudy5.csproj.AssemblyReference.cache
+C:\Dotnet_training\CaseStudy\CaseStudy5\CaseStudy5\obj\Debug\CaseStudy5.csproj.CoreCompileInputs.cache
+C:\Dotnet_training\CaseStudy\CaseStudy5\CaseStudy5\bin\Debug\CaseStudy5.exe.config
+C:\Dotnet_training\CaseStudy\CaseStudy5\CaseStudy5\bin\Debug\CaseStudy5.exe
+C:\Dotnet_training\CaseStudy\CaseStudy5\CaseStudy5\bin\Debug\CaseStudy5.pdb
+C:\Dotnet_training\CaseStudy\CaseStudy5\CaseStudy5\obj\Debug\CaseStudy5.exe
+C:\Dotnet_training\CaseStudy\CaseStudy5\CaseStudy5\obj\Debug\CaseStudy5.pdb
