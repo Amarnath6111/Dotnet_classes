@@ -1,0 +1,7 @@
+C:\Infinite_training\WebDevelopment\htmlform1\htmlform1\bin\Debug\htmlform1.exe.config
+C:\Infinite_training\WebDevelopment\htmlform1\htmlform1\bin\Debug\htmlform1.exe
+C:\Infinite_training\WebDevelopment\htmlform1\htmlform1\bin\Debug\htmlform1.pdb
+C:\Infinite_training\WebDevelopment\htmlform1\htmlform1\obj\Debug\htmlform1.csproj.AssemblyReference.cache
+C:\Infinite_training\WebDevelopment\htmlform1\htmlform1\obj\Debug\htmlform1.csproj.CoreCompileInputs.cache
+C:\Infinite_training\WebDevelopment\htmlform1\htmlform1\obj\Debug\htmlform1.exe
+C:\Infinite_training\WebDevelopment\htmlform1\htmlform1\obj\Debug\htmlform1.pdb

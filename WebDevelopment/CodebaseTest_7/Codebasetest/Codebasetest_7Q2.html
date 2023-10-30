@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Odd or Even Numbers</title>
+</head>
+<body>
+    <h1>To find Odd or Even Numbers</h1>
+    <ul id="output"></ul>
+    <script>
+        var output = document.getElementById("output");
+        for (var i = 0; i <= 15; i++) {
+            /*var display = i % 2 === 0 ? "Even" : "Odd";*/
+            if (i % 2 == 0) {
+                var display = "Even";
+            } else {
+                var display = "Odd";
+            }
+            var numbers = document.createElement("li");
+            numbers.textContent = "Number " + i + " is " + display;
+            output.appendChild(numbers)
+        }
+    </script>
+</body>
+</html>

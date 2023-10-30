@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Arthematic Operations</title>
+</head>
+<body>
+    <h1>To multiply or Divivde</h1>
+    <form>
+        <label for="firstnumber" >1st Number:</label>
+        <input type="number" name="firstnumber" id="firstnumber" /><br />
+        <label>2nd Number:</label>
+        <input type="number" name="secondnumber id=secondnumber" /><br />
+        <button type="button" onclick="multiplication()">Multiply</button>
+        <button type="button" onclick="division()">Divide</button><br />
+        <p id="result"></p>
+    </form>
+    <script>
+        function multiplication() {
+            var n1 = parseFloat(document.getElementById('firstnumber').value);
+            var n2 = parseFloat(document.getElementById('secondnumber').value);
+            var result = n1 * n2;
+            /*document.getElementById("result").textContent = "The Result is: " + result;*/
+            console.log('Result is:$result');
+
+        }
+
+        function division() {
+            var n1 = parseFloat(document.getElementById('firstnumber').value);
+            var n2 = parseFloat(document.getElementById('secondnumber').value);
+            if (n2 == 0) {
+                document.getElementById("result").textContent = "cannot divide by 0";
+            }
+            else {
+                var result = n1 / n2;
+                document.getElementById('result').textContent = "Result of Division:" + result;
+            }
+        }
+    </script>
+</body>
+</html>
