@@ -1,0 +1,15 @@
+C:\Infinite_training\Ef\LinqToSqlAssignmentEf\LinqToSqlAssignmentEf\bin\Debug\LinqToSqlAssignmentEf.exe.config
+C:\Infinite_training\Ef\LinqToSqlAssignmentEf\LinqToSqlAssignmentEf\bin\Debug\LinqToSqlAssignmentEf.exe
+C:\Infinite_training\Ef\LinqToSqlAssignmentEf\LinqToSqlAssignmentEf\bin\Debug\LinqToSqlAssignmentEf.pdb
+C:\Infinite_training\Ef\LinqToSqlAssignmentEf\LinqToSqlAssignmentEf\bin\Debug\EntityFramework.dll
+C:\Infinite_training\Ef\LinqToSqlAssignmentEf\LinqToSqlAssignmentEf\bin\Debug\EntityFramework.SqlServer.dll
+C:\Infinite_training\Ef\LinqToSqlAssignmentEf\LinqToSqlAssignmentEf\bin\Debug\EntityFramework.xml
+C:\Infinite_training\Ef\LinqToSqlAssignmentEf\LinqToSqlAssignmentEf\bin\Debug\EntityFramework.SqlServer.xml
+C:\Infinite_training\Ef\LinqToSqlAssignmentEf\LinqToSqlAssignmentEf\obj\Debug\LinqToSqlAssignmentEf.Migrations.EmpMigration.resources
+C:\Infinite_training\Ef\LinqToSqlAssignmentEf\LinqToSqlAssignmentEf\obj\Debug\LinqToSqlAssignmentEf.csproj.GenerateResource.cache
+C:\Infinite_training\Ef\LinqToSqlAssignmentEf\LinqToSqlAssignmentEf\obj\Debug\LinqToSqlAssignmentEf.csproj.CoreCompileInputs.cache
+C:\Infinite_training\Ef\LinqToSqlAssignmentEf\LinqToSqlAssignmentEf\obj\Debug\LinqToSqlAssignmentEf.csproj.CopyComplete
+C:\Infinite_training\Ef\LinqToSqlAssignmentEf\LinqToSqlAssignmentEf\obj\Debug\LinqToSqlAssignmentEf.exe
+C:\Infinite_training\Ef\LinqToSqlAssignmentEf\LinqToSqlAssignmentEf\obj\Debug\LinqToSqlAssignmentEf.pdb
+C:\Infinite_training\Ef\LinqToSqlAssignmentEf\LinqToSqlAssignmentEf\obj\Debug\LinqToSqlAssignmentEf.Migrations.EmpChange2.resources
+C:\Infinite_training\Ef\LinqToSqlAssignmentEf\LinqToSqlAssignmentEf\obj\Debug\LinqToSqlAssignmentEf.csproj.AssemblyReference.cache
