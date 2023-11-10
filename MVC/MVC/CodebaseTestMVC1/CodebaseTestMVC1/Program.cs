@@ -40,7 +40,7 @@ namespace CodebaseTestMVC1
             Console.WriteLine("List after Creation");
             foreach (var i in m)
             {
-                Console.WriteLine(i.Mid + "        " + i.Moviename + "         " + i.DateofRelease);
+                Console.WriteLine("movie id: " + i.Mid + "        " + "movie name: " + i.Moviename + "         " + "release date:" + i.DateofRelease);
             }
             Console.WriteLine("-----------------------------------------------------------------");
         }
@@ -58,7 +58,7 @@ namespace CodebaseTestMVC1
             Console.WriteLine("List after Edition");
             foreach (var i in UpdateM)
             {
-                Console.WriteLine(i.Mid + "        " + i.Moviename + "         " + i.DateofRelease);
+                Console.WriteLine("movie id: " + i.Mid + "        " + "movie name: " + i.Moviename + "         " + "release date:" + i.DateofRelease);
             }
             Console.WriteLine("-----------------------------------------------------------------------");
 
@@ -73,7 +73,7 @@ namespace CodebaseTestMVC1
             Console.WriteLine("list after Deletion");
             foreach (var i in UpdateM)
             {
-                Console.WriteLine(i.Mid + "        " + i.Moviename + "         " + i.DateofRelease);
+                Console.WriteLine("movie id: " + i.Mid + "        " + "movie name: " + i.Moviename + "         " + "release date:" + i.DateofRelease);
             }
             Console.WriteLine("---------------------------------------------------------------------------");
 
@@ -83,12 +83,14 @@ namespace CodebaseTestMVC1
             var list1 = moviedb.Movies.ToList();
             var mov1 = from mov in moviedb.Movies
                        select mov;
-            var mov2 = list1.FindAll(x => x.DateofRelease > DateTime.Parse("2000-01-01") & x.DateofRelease < DateTime.Parse("2000-12-30"));
+            Console.WriteLine("enter the year to find movies released in (2000 or 2011)");
+            int year = Convert.ToInt32(Console.ReadLine());
+            var mov2 = list1.FindAll(x => x.DateofRelease > DateTime.Parse($"{year}-01-01") & x.DateofRelease < DateTime.Parse($"{year}-12-30"));
 
-            Console.WriteLine("movies released in the year 2000");
+            Console.WriteLine($"movies released in the year {year}");
             foreach (var i in mov2)
             {
-                Console.WriteLine(i.Mid + "        " + i.Moviename + "         " + i.DateofRelease);
+                Console.WriteLine("movie id: "+i.Mid + "        " +"movie name: "+ i.Moviename + "         " +"release date:"+ i.DateofRelease);
             }
             Console.WriteLine("----------------------------------------------------------------------------------");
         }
@@ -96,7 +98,7 @@ namespace CodebaseTestMVC1
         {
 
             Console.WriteLine("please choose any of the Crud Operations \n");
-            Console.WriteLine("1.Creat \n 2.Edit \n 3.Delete \n 4.to Display the movies released in  year 2000 \n 5.Exit");
+            Console.WriteLine("1.Creat \n 2.Edit \n 3.Delete \n 4.to Display the movies released in a specific year  \n 5.Exit");
             int choose = Convert.ToInt32(Console.ReadLine());
             switch (choose)
             {
