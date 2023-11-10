@@ -1,0 +1,14 @@
+C:\Infinite_training\MVC\CodebaseTestMVC1\CodebaseTestMVC1\bin\Debug\CodebaseTestMVC1.exe.config
+C:\Infinite_training\MVC\CodebaseTestMVC1\CodebaseTestMVC1\bin\Debug\CodebaseTestMVC1.exe
+C:\Infinite_training\MVC\CodebaseTestMVC1\CodebaseTestMVC1\bin\Debug\CodebaseTestMVC1.pdb
+C:\Infinite_training\MVC\CodebaseTestMVC1\CodebaseTestMVC1\bin\Debug\EntityFramework.dll
+C:\Infinite_training\MVC\CodebaseTestMVC1\CodebaseTestMVC1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Infinite_training\MVC\CodebaseTestMVC1\CodebaseTestMVC1\bin\Debug\EntityFramework.xml
+C:\Infinite_training\MVC\CodebaseTestMVC1\CodebaseTestMVC1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Infinite_training\MVC\CodebaseTestMVC1\CodebaseTestMVC1\obj\Debug\CodebaseTestMVC1.csproj.AssemblyReference.cache
+C:\Infinite_training\MVC\CodebaseTestMVC1\CodebaseTestMVC1\obj\Debug\CodebaseTestMVC1.csproj.CoreCompileInputs.cache
+C:\Infinite_training\MVC\CodebaseTestMVC1\CodebaseTestMVC1\obj\Debug\CodebaseTestMVC1.csproj.CopyComplete
+C:\Infinite_training\MVC\CodebaseTestMVC1\CodebaseTestMVC1\obj\Debug\CodebaseTestMVC1.exe
+C:\Infinite_training\MVC\CodebaseTestMVC1\CodebaseTestMVC1\obj\Debug\CodebaseTestMVC1.pdb
+C:\Infinite_training\MVC\CodebaseTestMVC1\CodebaseTestMVC1\obj\Debug\CodebaseTestMVC1.Migrations.MovieMigrations.resources
+C:\Infinite_training\MVC\CodebaseTestMVC1\CodebaseTestMVC1\obj\Debug\CodebaseTestMVC1.csproj.GenerateResource.cache
