@@ -1,0 +1,7 @@
+C:\training\ExceptionHanding_day9\ExceptionHanding_day9\bin\Debug\ExceptionHanding_day9.exe.config
+C:\training\ExceptionHanding_day9\ExceptionHanding_day9\bin\Debug\ExceptionHanding_day9.exe
+C:\training\ExceptionHanding_day9\ExceptionHanding_day9\bin\Debug\ExceptionHanding_day9.pdb
+C:\training\ExceptionHanding_day9\ExceptionHanding_day9\obj\Debug\ExceptionHanding_day9.csproj.CoreCompileInputs.cache
+C:\training\ExceptionHanding_day9\ExceptionHanding_day9\obj\Debug\ExceptionHanding_day9.exe
+C:\training\ExceptionHanding_day9\ExceptionHanding_day9\obj\Debug\ExceptionHanding_day9.pdb
+C:\training\ExceptionHanding_day9\ExceptionHanding_day9\obj\Debug\ExceptionHanding_day9.csproj.AssemblyReference.cache

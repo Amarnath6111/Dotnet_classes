@@ -1,7 +1,0 @@
-C:\training\Overriding_Day8\Overriding_Day8\obj\Debug\Overriding_Day8.csproj.AssemblyReference.cache
-C:\training\Overriding_Day8\Overriding_Day8\obj\Debug\Overriding_Day8.csproj.CoreCompileInputs.cache
-C:\training\Overriding_Day8\Overriding_Day8\bin\Debug\Overriding_Day8.exe.config
-C:\training\Overriding_Day8\Overriding_Day8\bin\Debug\Overriding_Day8.exe
-C:\training\Overriding_Day8\Overriding_Day8\bin\Debug\Overriding_Day8.pdb
-C:\training\Overriding_Day8\Overriding_Day8\obj\Debug\Overriding_Day8.exe
-C:\training\Overriding_Day8\Overriding_Day8\obj\Debug\Overriding_Day8.pdb

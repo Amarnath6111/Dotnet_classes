@@ -1,6 +1,0 @@
-C:\Users\amarnathma\source\repos\DotnetCoding1\Dot_net3\bin\Debug\Dot_net3.exe.config
-C:\Users\amarnathma\source\repos\DotnetCoding1\Dot_net3\bin\Debug\Dot_net3.exe
-C:\Users\amarnathma\source\repos\DotnetCoding1\Dot_net3\bin\Debug\Dot_net3.pdb
-C:\Users\amarnathma\source\repos\DotnetCoding1\Dot_net3\obj\Debug\Dot_net3.csproj.CoreCompileInputs.cache
-C:\Users\amarnathma\source\repos\DotnetCoding1\Dot_net3\obj\Debug\Dot_net3.exe
-C:\Users\amarnathma\source\repos\DotnetCoding1\Dot_net3\obj\Debug\Dot_net3.pdb

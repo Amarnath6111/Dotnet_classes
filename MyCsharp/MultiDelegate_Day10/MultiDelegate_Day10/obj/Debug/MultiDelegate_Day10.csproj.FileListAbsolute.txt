@@ -1,0 +1,7 @@
+C:\training\MultiDelegate_Day10\MultiDelegate_Day10\bin\Debug\MultiDelegate_Day10.exe.config
+C:\training\MultiDelegate_Day10\MultiDelegate_Day10\bin\Debug\MultiDelegate_Day10.exe
+C:\training\MultiDelegate_Day10\MultiDelegate_Day10\bin\Debug\MultiDelegate_Day10.pdb
+C:\training\MultiDelegate_Day10\MultiDelegate_Day10\obj\Debug\MultiDelegate_Day10.csproj.AssemblyReference.cache
+C:\training\MultiDelegate_Day10\MultiDelegate_Day10\obj\Debug\MultiDelegate_Day10.csproj.CoreCompileInputs.cache
+C:\training\MultiDelegate_Day10\MultiDelegate_Day10\obj\Debug\MultiDelegate_Day10.exe
+C:\training\MultiDelegate_Day10\MultiDelegate_Day10\obj\Debug\MultiDelegate_Day10.pdb

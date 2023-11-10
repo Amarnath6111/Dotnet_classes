@@ -1,0 +1,7 @@
+C:\CodeBasedTest1\Codebased_csharp1\Codebased_csharp1\bin\Debug\Codebased_csharp1.exe.config
+C:\CodeBasedTest1\Codebased_csharp1\Codebased_csharp1\bin\Debug\Codebased_csharp1.exe
+C:\CodeBasedTest1\Codebased_csharp1\Codebased_csharp1\bin\Debug\Codebased_csharp1.pdb
+C:\CodeBasedTest1\Codebased_csharp1\Codebased_csharp1\obj\Debug\Codebased_csharp1.csproj.AssemblyReference.cache
+C:\CodeBasedTest1\Codebased_csharp1\Codebased_csharp1\obj\Debug\Codebased_csharp1.csproj.CoreCompileInputs.cache
+C:\CodeBasedTest1\Codebased_csharp1\Codebased_csharp1\obj\Debug\Codebased_csharp1.exe
+C:\CodeBasedTest1\Codebased_csharp1\Codebased_csharp1\obj\Debug\Codebased_csharp1.pdb

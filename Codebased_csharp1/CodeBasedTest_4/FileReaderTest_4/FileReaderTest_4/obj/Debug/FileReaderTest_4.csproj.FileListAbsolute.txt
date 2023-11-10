@@ -1,7 +1,0 @@
-C:\Dotnet_training\Codebased_csharp1\CodeBasedTest_4\FileReaderTest_4\FileReaderTest_4\bin\Debug\FileReaderTest_4.exe.config
-C:\Dotnet_training\Codebased_csharp1\CodeBasedTest_4\FileReaderTest_4\FileReaderTest_4\bin\Debug\FileReaderTest_4.exe
-C:\Dotnet_training\Codebased_csharp1\CodeBasedTest_4\FileReaderTest_4\FileReaderTest_4\bin\Debug\FileReaderTest_4.pdb
-C:\Dotnet_training\Codebased_csharp1\CodeBasedTest_4\FileReaderTest_4\FileReaderTest_4\obj\Debug\FileReaderTest_4.csproj.AssemblyReference.cache
-C:\Dotnet_training\Codebased_csharp1\CodeBasedTest_4\FileReaderTest_4\FileReaderTest_4\obj\Debug\FileReaderTest_4.csproj.CoreCompileInputs.cache
-C:\Dotnet_training\Codebased_csharp1\CodeBasedTest_4\FileReaderTest_4\FileReaderTest_4\obj\Debug\FileReaderTest_4.exe
-C:\Dotnet_training\Codebased_csharp1\CodeBasedTest_4\FileReaderTest_4\FileReaderTest_4\obj\Debug\FileReaderTest_4.pdb

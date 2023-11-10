@@ -1,7 +1,0 @@
-C:\training\cbt2\cbt2\bin\Debug\cbt2.exe.config
-C:\training\cbt2\cbt2\bin\Debug\cbt2.exe
-C:\training\cbt2\cbt2\bin\Debug\cbt2.pdb
-C:\training\cbt2\cbt2\obj\Debug\cbt2.csproj.AssemblyReference.cache
-C:\training\cbt2\cbt2\obj\Debug\cbt2.csproj.CoreCompileInputs.cache
-C:\training\cbt2\cbt2\obj\Debug\cbt2.exe
-C:\training\cbt2\cbt2\obj\Debug\cbt2.pdb
