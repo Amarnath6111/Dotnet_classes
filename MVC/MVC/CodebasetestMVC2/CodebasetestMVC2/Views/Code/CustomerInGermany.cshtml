@@ -1,0 +1,15 @@
+﻿@model List < CodebasetestMVC2.Models.Customer> 
+
+<h2 style="color:burlywood">Customers present  in Germany</h2>
+<table class="table">
+    <tr>
+        <th>Customer ID</th>
+        <th>Company Name</th>
+    </tr>
+    @foreach (var cust in Models)
+    {
+<tr>
+    <td>@cust.CustomerID</td>
+    <td>@cust.CompanyName</td>
+</tr>}
+</table>
