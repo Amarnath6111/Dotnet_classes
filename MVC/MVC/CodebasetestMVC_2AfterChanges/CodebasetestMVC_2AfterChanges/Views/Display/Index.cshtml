@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <h1>Movies Released in the Year 2000 are:</h1>
+    </div>
+    <div>
+        <ul>
+            @foreach (var i in ViewBag.MovieList)
+            {
+                <li>
+                    MovieName - @i.Moviename    ,  Date Of Release - @i.DateofRelease
+                </li>
+            }
+        </ul>
+    </div>
+    <div>
+
+    </div>
+</body>
+</html>
